@@ -1,0 +1,1 @@
+import React from 'react'; const NicheCard: React.FC = () => { return <div>Niche Card</div>; }; export default NicheCard;

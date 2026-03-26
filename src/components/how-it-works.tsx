@@ -1,0 +1,1 @@
+import React from 'react'; const HowItWorks: React.FC = () => { return <section>How It Works Section</section>; }; export default HowItWorks;
